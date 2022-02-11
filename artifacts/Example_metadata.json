@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"drug_exchanger.sol": "Example"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"drug_exchanger.sol": {
+			"keccak256": "0x3596008bedcaa0f80a611996ce450b603e9e22dcdb032ea77f3ef5a771f1daf2",
+			"license": "UNLICESEND",
+			"urls": [
+				"bzz-raw://c8f7e1b1b3925a7c624a0286b0852b0d33ad6ff26e6cc2ddf37e366f2a3e265a",
+				"dweb:/ipfs/QmQRVEBsFkufqJDBhq25k8mme2hEqx599DLvfXUmWCxvoE"
+			]
+		}
+	},
+	"version": 1
+}
